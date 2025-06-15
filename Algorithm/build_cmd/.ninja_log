@@ -1,0 +1,5 @@
+# ninja log v6
+17	4299	7716950185569721	CMakeFiles/ecnuNavigation.dir/menu.cpp.obj	34823e0cbbc583c
+2	6782	7716950185411844	CMakeFiles/ecnuNavigation.dir/main.cpp.obj	d3d650251da872dd
+10	8053	7716950185494768	CMakeFiles/ecnuNavigation.dir/graph.cpp.obj	ae3c5b0f3c71b6ad
+8054	8364	7716950265924745	ecnuNavigation.exe	88401341cc4b6644
