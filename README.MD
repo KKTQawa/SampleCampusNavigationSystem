@@ -1,6 +1,6 @@
 ## 简介
 
-一个简单的c++与python混合编程项目
+- 一个简单的c++与python混合编程项目，使用c++作算法、python作UI，使用pybind11将c++与python连接起来
 
 ## 说明
 
